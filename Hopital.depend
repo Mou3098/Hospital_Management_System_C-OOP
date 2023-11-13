@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1577534995 source:c:\users\user\documents\lab final oop\new folder (2)\hospital\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	<iomanip>
+	"user.h"
+
+1577705223 c:\users\user\documents\lab final oop\new folder (2)\hospital\user.h
+
+1577601101 source:c:\users\user\documents\lab final oop\new folder (2)\hospital\user.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	<iomanip>
+	"user.h"
+
+1577534996 source:f:\hospital\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	<iomanip>
+	"user.h"
+
+1577705224 f:\hospital\user.h
+
+1577601102 source:f:\hospital\user.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	<iomanip>
+	"user.h"
+
